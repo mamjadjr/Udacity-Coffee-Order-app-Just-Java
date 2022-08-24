@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Coffee Order App</string>
+    <string name="topping">Topping</string>
+    <string name="thank_you">Wipped Cream</string>
+</resources>
